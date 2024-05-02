@@ -1,29 +1,32 @@
-<h3 align="center">Developer</h3>
+<div align="center">
+  <h1>Developer</h1>
+
+  <p>My name is Felipe Chagas, I'm 20 years old and I'm from Guarujá, São Paulo.</p>
+  <p>- 🌱 Evolving Full Stack Developer...</p>
 
 <br/>
-
-<!--**feelipechs/feelipechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<div align="center">
-  My name is Felipe Chagas, I'm 20 years old and I'm from Guarujá, São Paulo.
-</div>
-
-<br/>
-
-<div align="center">
-  - 🌱 Evolving Full Stack Developer...
-<div/>
   
-<h2 align="center">Skills</h2>
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feelipechs/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feelipechs)
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,java,js,python"/>
-</div>
+## Skills
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelipechs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feelipechs&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=30A3DC&title_color=ffffff&text_color=FFF&hide_title=true&hide=stars)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feelipechs&layout=compact&bg_color=000&border_color=ffffff&title_color=ffffff&text_color=FFF)
 </div>
