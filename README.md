@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Developer</h1>
 
-  <p>My name is Felipe Chagas, I'm 20 years old and I'm from Guarujá, São Paulo.</p>
-  <p>- 🌱 Evolving Full Stack Developer...</p>
+  <p>Felipe Chagas</p>
+  <p>20y</p>
 
 <br/>
   
@@ -18,6 +18,10 @@
 
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
