@@ -19,11 +19,10 @@
 <br/>
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feelipechs&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=30A3DC&title_color=ffffff&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats-chaguinhas.vercel.app/api?username=feelipechs&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=30A3DC&title_color=ffffff&text_color=FFF&hide_title=true&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelipechs&layout=compact&bg_color=000&border_color=ffffff&title_color=ffffff&text_color=FFF)
+![Top Langs](https://github-readme-stats-chaguinhas.vercel.app/api/top-langs/?username=feelipechs&layout=compact&bg_color=000&border_color=ffffff&title_color=ffffff&text_color=FFF)
 
-![Stats](https://raw.githubusercontent.com/feelipechs/github-badge/master/github-repo-count.svg)
 </div>
 
 <picture>
