@@ -3,11 +3,13 @@
 
   <p>Felipe Chagas</p>
   <p>21y</p>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://felipe-chagas-portfolio.vercel.app/)
 
 <br/>
   
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/feelipechs/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/feelipechs/)
 
 <br/>
 
