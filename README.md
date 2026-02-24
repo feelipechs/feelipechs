@@ -14,7 +14,7 @@
 <br/>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,react,spring,bootstrap,tailwind,mysql,vscode,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,nodejs,react,spring,bootstrap,tailwind,mysql,vscode,windows,linux)](https://skillicons.dev)
 
 <br/>
 
