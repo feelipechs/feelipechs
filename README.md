@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Developer</h1>
+  <h1>Software Developer</h1>
 
   <p>Felipe Chagas</p>
-  <p>21y</p>
+  <p>22y</p>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://felipe-chagas-portfolio.vercel.app/)
 
