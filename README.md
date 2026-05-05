@@ -4,13 +4,6 @@
   <p>Felipe Chagas</p>
   <p>22y</p>
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://felipe-chagas-portfolio.vercel.app/)
-
-<br/>
-  
-## Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/feelipechs/)
-
 <br/>
 
 ## Skills
