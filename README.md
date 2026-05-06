@@ -7,7 +7,7 @@
 <br/>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,nextjs,spring,bootstrap,tailwind,postgres,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,nextjs,spring,tailwind,postgres,linux)](https://skillicons.dev)
 
 <br/>
 
