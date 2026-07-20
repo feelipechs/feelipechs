@@ -7,7 +7,7 @@
 <br/>
 
 ## Skills
-![icons](https://go-skill-icons.vercel.app/api/icons?i=java,spring,javascript,typescript,nodejs,react,nestjs,nextjs,tailwind,postgres,podman,linux)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=java,spring,javascript,typescript,nodejs,react,nestjs,nextjs,tailwind,postgres,docker,linux)
 
 <br/>
 
